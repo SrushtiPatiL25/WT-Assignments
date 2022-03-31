@@ -1,0 +1,24 @@
+h{
+    display: block;
+    text-align: center;
+    padding: 10px;
+    font-size: 25px;
+    background-color: black;
+    color: white;
+    border-bottom: 2px dashed white;
+}
+users{
+    background-color: black;
+}
+student{
+    margin: 20px;
+    width: 300px;
+    padding: 10px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    display: inline-block;
+}
+name, contact, email, dob, city, college{
+    display: block;
+    text-align: center;
+}

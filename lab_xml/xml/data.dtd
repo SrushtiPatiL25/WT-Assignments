@@ -1,0 +1,9 @@
+<!ELEMENT student (name,contact,email,dob,city,college)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT city (#PCDATA)>
+<!ELEMENT dob (#PCDATA)>
+<!ELEMENT contact (#PCDATA)>
+<!ELEMENT college (#PCDATA)>
+<!ELEMENT users ANY>
+<!ELEMENT h ANY>

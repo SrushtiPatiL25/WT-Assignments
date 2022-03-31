@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type = "text/xsl" href = "style.xsl"?>   
+<users>
+    <student rollno="1001">
+        <name>Srushti Patil</name>
+        <contact>9459794604</contact>
+        <email>srush@gmail.com</email>
+        <dob>25-08-2001</dob>
+        <city>Pune</city>
+        <college>PCCOE</college>
+    </student>
+    <student rollno="1002">
+        <name>Harshad Patil</name>
+        <contact>6474563210</contact>>
+        <email>harshad@gmail.com</email>
+        <dob>02-06-2001</dob>
+        <city>Jalgaon</city>
+        <college>MMCOE</college>
+    </student>
+    <student rollno="1003">
+        <name>Rahul More</name>>
+        <contact>2346387410</contact>
+        <email>rahul56@gmail.com</email>
+        <dob>26-11-2001</dob>
+        <city>Pune</city>
+        <college>COEP</college>
+    </student>
+    <student rollno="1004">
+        <name>Anam Pathan</name>
+        <contact>996317890</contact>
+        <email>anam6@gmail.com</email>
+        <dob>26-06-2001</dob>
+        <city>Delhi</city>
+        <college>IIT</college>
+    </student>
+    <student rollno="1003">
+        <name>Atul More</name>
+        <contact>2589631470</contact>
+        <email>atul56@gmail.com</email>
+        <dob>26-11-2003</dob>
+        <city>Pune</city>
+        <college>VIIT</college>
+    </student>
+    <student rollno="1003">
+        <name>Raj Tame</name>
+        <contact>2587413690</contact>
+        <email>raju25@gmail.com</email>
+        <dob>26-11-2003</dob>
+        <city>Pune</city>
+        <college>VIIT</college>
+    </student>
+    <student rollno="1003">
+        <name>Ajit Narkhede</name>
+        <contact>258931470</contact>
+        <email>ajit45@gmail.com</email>
+        <dob>26-05-2001</dob>
+        <city>Pune</city>
+        <college>PICT</college>
+    </student>
+    <student rollno="1003">
+        <name>Rahul Chavan</name>
+        <contact>2596387410</contact>
+        <email>rahul56@gmail.com</email>
+        <dob>26-11-2001</dob>
+        <city>Pune</city>
+        <college>COEP</college>
+    </student>
+</users>

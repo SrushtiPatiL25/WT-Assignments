@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<!DOCTYPE users SYSTEM "data.dtd">
+<?xml-stylesheet type="text/css" href="style.css"?>
+<users>
+	<h>Student Information</h>
+    <student >
+        <name>Student Name: Srushti Patil</name>
+        <contact>Contact No: 9459794604</contact>
+        <email>Email-ID: srush@gmail.com</email>
+        <dob>DOB: 25-08-2001</dob>
+        <city>City: Pune</city>
+        <college>College Name: PCCOE</college>
+    </student>
+    <student>
+        <name>Student Name: Harshad Patil</name>
+        <contact>Contact No: 6474563210</contact>
+        <email>Email-ID: harshad@gmail.com</email>
+        <dob>DOB: 02-06-2001</dob>
+        <city>City: mumbai</city>
+        <college>College Name: MMCOE</college>
+    </student>
+    <student>
+        <name>Student Name: Rahul More</name>
+        <contact>Contact No: 2346387410</contact>
+        <email>Email-ID: rahul56@gmail.com</email>
+        <dob>DOB: 26-11-2001</dob>
+        <city>City: Pune</city>
+        <college>College Name: COEP</college>
+    </student>
+    <student>
+        <name>Student Name: Anam Pathan</name>
+        <contact>Contact No: 996317890</contact>
+        <email>Email-ID: anam6@gmail.com</email>
+        <dob>DOB: 26-06-2001</dob>
+        <city>City: Delhi</city>
+        <college>College Name: IIT</college>
+    </student>
+    <student>
+        <name>Student Name: Atul More</name>
+        <contact>Contact No: 2589631470</contact>
+        <email>Email-ID: atul56@gmail.com</email>
+        <dob>DOB: 26-11-2003</dob>
+        <city>City: Pune</city>
+        <college>College Name: VIIT</college>
+    </student>
+    <student>
+        <name>Student Name: Raj Tame</name>
+        <contact>Contact No: 2587413690</contact>
+        <email>Email-ID: raju25@gmail.com</email>
+        <dob>DOB: 26-11-2003</dob>
+        <city>City: Pune</city>
+        <college>College Name: VIIT</college>
+    </student>
+    <student>
+        <name>Student Name: Ajit Narkhede</name>
+        <contact>Contact No: 258931470</contact>
+        <email>Email-ID: ajit45@gmail.com</email>
+        <dob>DOB: 26-05-2001</dob>
+        <city>City: Pune</city>
+        <college>College Name: PICT</college>
+    </student>
+    <student>
+        <name>Student Name: Rahul Chavan</name>
+        <contact>Contact No: 2596387410</contact>
+        <email>Email-ID: rahul56@gmail.com</email>
+        <dob>DOB: 26-11-2001</dob>
+        <city>City: Pune</city>
+        <college>College Name: COEP</college>
+    </student>
+</users>
